@@ -1,10 +1,10 @@
-# Danilo Coppe – CV (GitHub Pages)
+# Danilo Coppe – Profilo professionale (GitHub Pages)
 
-Questo repository pubblica un CV in formato pagina web (GitHub Pages) con:
-- impaginazione del CV essenziale
+Questo repository pubblica un **profilo professionale** in formato pagina web (GitHub Pages) con:
+- impaginazione web del profilo (da `CarrieraCoppe.docx`)
 - foto profilo
 - video MP4
-- documento originale (DOC)
+- documento originale (DOCX)
 
 ## Pubblicazione (GitHub Pages)
 1. Vai su **Settings → Pages**
@@ -12,4 +12,4 @@ Questo repository pubblica un CV in formato pagina web (GitHub Pages) con:
 3. Branch: **main** / folder: **/(root)**
 
 URL previsto:
-https://dancop8.github.io/danilo-coppe-cv/
+https://danilocoppe.github.io/danilo-coppe-cv/
